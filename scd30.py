@@ -3,6 +3,7 @@
 # https://github.com/RequestForCoffee/scd30/blob/master/examples/continuous_measurement.py
 
 from scd30_i2c import SCD30
+import time
 
 scd30 = SCD30()
 
